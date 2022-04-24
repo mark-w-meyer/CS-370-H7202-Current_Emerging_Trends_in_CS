@@ -1,6 +1,8 @@
 # CS-370-H7202-Current_Emerging_Trends_in_CS
 A repository of artifacts in the field of artificial intelligence, particularly reinforcement learning and Q-values.
 
+Project Two is an artifical intelligence model that uses TensorFlow Keras--a high-level API--to program an intelligent agent to find a treasure in a small maze. My main objective was to help the agent find the treasure by applying a deep Q-learning algorithm to solve a pathfinding problem. I then provided an analysis of how this was achieved. Some code was provided for us: all .py files and imports. Thus, I created the deep Q-learning algorithm (if opened directly in an IDE, this would be around lines 304-372) beginning with "For each epoch:" and ending with "print('This maze passed the completion check.')". After the code, the testing results can be found if you are interested in how long it took to attain a 100% win rate, which was at Epoch 463.
+
 What do computer scientists do and why does it matter?
 
 Computer scientists create and innovate solutions for a multitude of problems throughout our everyday lives. They are responsible for being well-versed in a plethora of interdisciplinary studies and technologies that drive the modern world. When you drink your coffee, shop on Amazon, communicate with your friends and family on Facebook, watch YouTube, drive a vehicle (since the invention of the ECM), or do a load of laundry--just to name a few--you can thank a computer scientist. A computer scientist is far greater than just someone who 'writes code'. They take a user's requirements, if even from a simple conversation, and convert that into something you can use in everyday life.
